@@ -6,8 +6,7 @@ Prof-Shucheng-Yu;
 -iangyang-Xu
 
 # Server Part
-port:8080/n
-IP: as your server(computer)
+port:8080; IP: as your server(computer)
 ## ML Merged model,
 Avg or use a MLP model of 2~3 models, imporve final result about 1%~3%. Forget to copy to client part, and currently lose. Will do it when i am writing final report.
 
