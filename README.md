@@ -1,10 +1,14 @@
 # 2020F_Project
 Stevens-2020F-AAI800-Course;
-Advisor-Prof-Shucheng-Yu;
-Student-Xiangyang-Xu
+##Advisor
+Prof-Shucheng-Yu;
+##Student
+-iangyang-Xu
 
-## Server Part
-port:8080
-IP: as your server(computer)
-## Client Part
+# Server Part
+port:8080; IP: as your server(computer)
+## ML Merged model,
+Avg or use a MLP model of 2~3 models, imporve final result about 1%~3%. Forget to copy to client part, and currently lose. Will do it when i am writing final report.
+
+# Client Part
 IP: as your server
