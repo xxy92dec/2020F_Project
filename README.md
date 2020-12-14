@@ -3,12 +3,19 @@ Stevens-2020F-AAI800-Course;
 ##Advisor
 Prof-Shucheng-Yu;
 ##Student
--iangyang-Xu
+Xiangyang-Xu
 
-# Server Part
+#Server Part
 port:8080; IP: as your server(computer)
-## ML Merged model,
-Avg or use a MLP model of 2~3 models, imporve final result about 1%~3%. Forget to copy to client part, and currently lose. Will do it when i am writing final report.
 
-# Client Part
+#Client Part
 IP: as your server
+
+#Document folder
+Final report and other file
+
+#Server Part
+Source code of server & source code of machine learning.
+
+main.py is the source code of android app;
+client.apk is the android app 
