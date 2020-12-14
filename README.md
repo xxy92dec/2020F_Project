@@ -19,3 +19,4 @@ Source code of server & source code of machine learning.
 
 main.py is the source code of android app;
 client.apk is the android app 
+android app test at Bluestack Android emulater and Nox Android emulater. Run good.
